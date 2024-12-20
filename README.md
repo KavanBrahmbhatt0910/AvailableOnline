@@ -89,8 +89,8 @@ The architecture follows a **public cloud deployment model** and is delivered as
 1. **Frontend**:
    - Clone the repository:
      ```bash
-     git clone https://github.com/your-repo/movies-ocean.git
-     cd movies-ocean/frontend
+     git clone https://github.com/KavanBrahmbhatt0910/AvailableOnline.git
+     cd AvailableOnline/frontend
      npm install
      npm run build
      ```
