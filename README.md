@@ -1,6 +1,6 @@
-# Movies Ocean
+# CineStream
 
-**Movies Ocean** is a cloud-based web application that allows users to stream movies over the internet. The system is designed with scalability, security, and high availability in mind using AWS services.
+**CineStream** is a cloud-based web application that allows users to stream movies over the internet. The system is designed with scalability, security, and high availability in mind using AWS services.
 
 ## Features
 
@@ -59,6 +59,9 @@ The architecture follows a **public cloud deployment model** and is delivered as
    - **AWS Backup** for automated backup and recovery solutions.
 
 ---
+## Diagram
+
+![Architecture Diagram](./images/architecture.png)
 
 ## Cost Analysis
 
